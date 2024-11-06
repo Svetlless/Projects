@@ -24,23 +24,23 @@
 ### Используемые библиотеки
 
 #### Работа с данными
-- **Pandas**
-- **NumPy**
+- Pandas
+- NumPy
 
 #### Визуализация данных
-- **Matplotlib**
-- **Seaborn**
+- Matplotlib
+- Seaborn
 
 #### Статистика и анализ
-- **Scipy**
-- **Pingouin**
+- Scipy
+- Pingouin
 
 #### Работа с HTTP-запросами
-- **Requests**
-- **Urllib**
+- Requests
+- Urllib
 
 #### Работа с текстом (регулярные выражения)
-- **re**
+- re
 
 #### Работа с базами данных
-- **sqlite3**
+- sqlite3
